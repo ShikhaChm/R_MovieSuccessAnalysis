@@ -1,0 +1,29 @@
+Column name,Description
+actor_1_facebook_likes,Number of Facebook likes for the 1st or primary actor
+actor_1_name,Name of the 1st or primary actor
+actor_2_facebook_likes,Number of Facebook likes for the 2nd or primary actor
+actor_2_name,Name of the 2nd or secondary actor
+actor_3_facebook_likes,Number of Facebook likes for the 3rd or tertiary actor
+actor_3_name,Name of the 3rd or tertiary actor
+aspect_ratio,Width / length of the picture
+budget,
+cast_total_facebook_likes,Cumulative Facebook likes of the entire cast of the movie
+color,
+content_rating,Rating of suitability of the movie's content to the audience
+country,
+director_facebook_likes,Number of Facebook likes for the director
+director_name,
+duration,Duration of the movie in minutes
+facenumber_in_poster,Number of faces in the movie poster
+genres,Genres under which the movie is classified
+gross,Gross revenue
+imdb_score,Movie rating
+language,Primary language spoken in the movie
+movie_facebook_likes,Number of Facebook likes for the movie
+movie_imdb_link,URL to access the movie page on IMDb
+movie_title,
+num_critic_for_reviews,Number of reviews by critics
+num_user_for_reviews,Number of reviews by users
+num_voted_users,Number of users who've rated the movie
+plot_keywords,Keywords from the movie's plot
+title_year,Year of release
